@@ -3,4 +3,6 @@ The idea of this project is to create a tool that is able to automatically gener
 
 BATCH GIF GENERATION 
 This script generates a (large) set of animations from a movie given the dialogue timings specified on a subtitle file. The result is a GIF file for each dialogue in the movie!
+
 Example: python batch_generator.py ~/matrix.srt ~/matrix.mp4 ./ 
+Output: https://cattanimarco.com/2016/12/22/movie-meme/
